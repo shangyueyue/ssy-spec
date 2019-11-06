@@ -11,12 +11,12 @@
     "url": "git+https://github.com/ice-lab/spec.git"
   },
   "bugs": {
-    "url": "https://github.com/ice-lab/spec/issues"
+    "url": "https://github.com/shangyueyue/ssy-spec/issues"
   },
   "homepage": "https://github.com/ice-lab/spec#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "commit": "git add . && git-cz"
+    "commit": "git-cz"
   },
   "husky": {
     "hooks": {
